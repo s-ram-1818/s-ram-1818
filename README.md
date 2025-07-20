@@ -1,226 +1,272 @@
-# Hi there, I'm Ram Sarwade! 👋
+```
+ ____                     ____                              _      
+|  _ \ __ _ _ __ ___       / ___|  __ _ _ ____      ____ _  __| | ___ 
+| |_) / _` | '_ ` _ \      \___ \ / _` | '__\ \ /\ / / _` |/ _` |/ _ \
+|  _ < (_| | | | | | |      ___) | (_| | |   \ V  V / (_| | (_| |  __/
+|_| \_\__,_|_| |_| |_|     |____/ \__,_|_|    \_/\_/ \__,_|\__,_|\___|
+```
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Full-Stack+Developer;Competitive+Programmer;Problem+Solver;Open+Source+Enthusiast)
+```javascript
+class RamSarwade {
+    constructor() {
+        this.name = "Ram Sarwade";
+        this.role = "Full-Stack Wizard 🧙‍♂️";
+        this.location = "Aurangabad, Maharashtra, India 🇮🇳";
+        this.college = "Government College of Engineering, Aurangabad";
+        this.currentFocus = ["System Design", "Competitive Programming", "Building Cool Stuff"];
+        this.funFact = "I debug with console.log() and I'm not ashamed! 😅";
+    }
+
+    getCurrentStatus() {
+        return {
+            coding: "24/7",
+            learning: "Always",
+            collaborating: "Open for opportunities",
+            coffee: "☕ Addiction Level: Maximum"
+        };
+    }
+
+    getAchievements() {
+        return [
+            "🏆 TCS CodeVita S12 Global Rank 267 (Top 0.01%)",
+            "🔥 350+ Day LeetCode Streak (Still going strong!)",
+            "⭐ CodeChef 2★ | Global Rank 52 in Starters 193",
+            "💡 1000+ DSA Problems Conquered",
+            "🎯 Goldman Sachs Engineering Simulation Complete"
+        ];
+    }
+}
+
+const ram = new RamSarwade();
+console.log("Welcome to my digital universe! 🚀");
+```
 
 </div>
 
 ---
 
-## 🎓 About Me
-
-🌟 **Undergraduate at Government College of Engineering, Aurangabad (GECA)**  
-💡 Passionate about building scalable web applications and solving complex algorithmic challenges  
-🚀 Currently exploring **System Design**, **DevOps**, and **Advanced Data Structures**
-
----
-
-## 🏆 Highlights & Achievements
+## 🎮 **Current Game Stats**
 
 <table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/TCS_CodeVita_S12-Global_Rank_267-gold?style=for-the-badge&logo=trophy" />
-      <br><strong>TCS CodeVita Season 12</strong>
-      <br>Global Rank 267 🥇
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/DSA_Problems-1000+-brightgreen?style=for-the-badge&logo=leetcode" />
-      <br><strong>Problem Solver</strong>
-      <br>1000+ DSA Problems Solved 💪
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/CodeChef-2★_Rating_1553-orange?style=for-the-badge&logo=codechef" />
-      <br><strong>CodeChef 2★</strong>
-      <br>Global Rank 52 in Starters 193 🌟
-    </td>
-  </tr>
+<tr>
+<td>
+
+```yaml
+Player: Ram Sarwade
+Class: Full-Stack Developer
+Level: Undergraduate++
+XP: 1000+ Problems Solved
+
+Stats:
+  🧠 Intelligence: ████████░░ 80%
+  ⚡ Speed: ███████░░░ 70% 
+  🎯 Accuracy: ████████░░ 85%
+  🔄 Persistence: ██████████ 100%
+  ☕ Coffee Dependency: ██████████ 100%
+
+Current Quest: Building Scalable Applications
+Side Missions: Open Source Contributions
+```
+
+</td>
+<td>
+
+```python
+# My Coding DNA 🧬
+coding_dna = {
+    'languages': {
+        'fluent': ['C++', 'JavaScript', 'C'],
+        'learning': ['Python', 'TypeScript'],
+        'want_to_learn': ['Rust', 'Go']
+    },
+    'superpowers': [
+        'Turning coffee into code',
+        'Debugging at 3 AM',
+        'Making APIs that actually work',
+        'Writing clean(ish) code'
+    ],
+    'kryptonite': ['Merge conflicts', 'CSS centering'],
+    'motto': 'Code, Debug, Coffee, Repeat 🔄'
+}
+```
+
+</td>
+</tr>
 </table>
 
-### 🎯 Recent Achievements
-- ✅ **350+ day streak** of Problem of the Day on LeetCode  
-- ✅ Completed **Goldman Sachs Software Engineering Job Simulation** on Forage  
-- ✅ **Global Rank 2515** in TCS CodeVita S12 Round 1 (Qualified)  
-
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ **My Arsenal** 
 
-### Languages & Frameworks
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### **⚔️ Weapons of Choice**
+```
+Frontend:  [████████████████████] React.js + Tailwind CSS
+Backend:   [██████████████████░░] Node.js + Express.js  
+Database:  [███████████████░░░░░] MongoDB + MySQL
+Tools:     [████████████████░░░░] Git + VS Code + Postman
+```
 
-</div>
-
-### Frontend Development
-<div align="center">
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</div>
-
-### Backend Development
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=api&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-</div>
-
-### Databases
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-### Tools & Technologies
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### **🏆 Battle-Tested Technologies**
+<img src="https://skillicons.dev/icons?i=cpp,js,c,react,nodejs,express,mongodb,mysql,html,css,tailwindcss,git,github,vscode,postman" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 **Mission Control: Featured Projects**
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">QR-Based Attendance System</h3>
-        <div align="center">
-          <a href="https://github.com/s-ram-1818/QRBasedAttendanceSystem" target="_blank">
-            <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="QR Attendance System"/>
-          </a>
-          <br><br>
-          <p><strong>🎯 Role-based web application for QR code attendance marking</strong></p>
-          <p>
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-            <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
-          </p>
-          <p>✨ Features: Admin/Student roles, QR generation, Real-time attendance tracking</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">GECA News Updates</h3>
-        <div align="center">
-          <a href="https://github.com/s-ram-1818/GECA-News-Updates" target="_blank">
-            <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GECA News Updates"/>
-          </a>
-          <br><br>
-          <p><strong>📰 Full-stack SPA for news updates & email subscriptions</strong></p>
-          <p>
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-            <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-            <img src="https://img.shields.io/badge/Cheerio-E88500?style=flat&logo=cheerio&logoColor=white" />
-          </p>
-          <p>🔥 Features: Google OAuth, Email verification, Automated alerts, Web scraping</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+### 🎯 **[QR-Based Attendance System](https://github.com/s-ram-1818/QRBasedAttendanceSystem)**
+```diff
++ Role-based authentication system
++ Real-time QR code generation & scanning
++ Admin dashboard with analytics
++ JWT token management
++ Responsive React.js frontend
+! Tech Stack: React.js | Node.js | Express.js | MongoDB | JWT
+```
+
+### 📰 **[GECA News Updates](https://github.com/s-ram-1818/GECA-News-Updates)**
+```diff
++ Web scraping with Cheerio.js
++ Google OAuth integration
++ Automated email notifications
++ Cron job scheduling
++ Email verification system
+! Tech Stack: Node.js | Express.js | MongoDB | Nodemailer
+```
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s-ram-1818&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-ram-1818&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-ram-1818&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s-ram-1818&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
-## 💻 Coding Profiles & Ratings
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://leetcode.com/s_ram_1818/" target="_blank">
-          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-        </a>
-        <br><strong>s_ram_1818</strong>
-        <br>350+ Day Streak 🔥
-      </td>
-      <td align="center">
-        <a href="https://www.geeksforgeeks.org/user/s_ram_1818/" target="_blank">
-          <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-        </a>
-        <br><strong>s_ram_1818</strong>
-        <br>Problem Solver 💡
-      </td>
-      <td align="center">
-        <a href="https://www.codechef.com/users/s_ram_108" target="_blank">
-          <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-        </a>
-        <br><strong>s_ram_108</strong>
-        <br>2★ (Max: 1553) ⭐
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramsarwade1818@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram1818/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s-ram-1818)
-
-</div>
-
----
-
-## 🌟 Fun Facts
-
-- 🧠 I love solving algorithmic puzzles and optimizing code performance
-- 🌱 Currently learning **System Design** and exploring **Cloud Technologies**
-- 🎯 Goal: Contribute to **open-source projects** and build impactful applications
-- ☕ Powered by coffee and curiosity!
-
----
+## 📈 **Performance Metrics**
 
 <div align="center">
   
-**⭐ If you like my work, don't forget to star my repositories!**
+```
+                    🏅 ACHIEVEMENTS UNLOCKED 🏅
+┌─────────────────────────────────────────────────────────────┐
+│  Achievement                        │  Status   │  Rarity   │
+├─────────────────────────────────────┼───────────┼───────────┤
+│  TCS CodeVita Global Rank 267      │    ✅     │  Legendary│
+│  350+ Day LeetCode Streak           │    ✅     │    Epic   │
+│  CodeChef 2★ Rating                 │    ✅     │    Rare   │
+│  1000+ Problems Solved              │    ✅     │  Uncommon │
+│  Goldman Sachs Simulation           │    ✅     │  Uncommon │
+└─────────────────────────────────────┴───────────┴───────────┘
+```
 
-![Profile Views](https://komarev.com/ghpvc/?username=s-ram-1818&color=blueviolet&style=for-the-badge)
+<img src="https://github-readme-stats.vercel.app/api?username=s-ram-1818&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=f8f8f2&icon_color=ff6e96" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=s-ram-1818&theme=synthwave&hide_border=true&background=0d1117&stroke=ff6e96&ring=ff6e96&fire=ff6e96&currStreakLabel=ff6e96" height="170"/>
 
 </div>
 
 ---
 
+## 🎯 **Coding Battlegrounds**
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+| Platform | Handle | Status | Special Achievement |
+|:--------:|:------:|:------:|:------------------:|
+| 🟡 **LeetCode** | [`s_ram_1818`](https://leetcode.com/s_ram_1818/) | 🔥 350+ Day Streak | Daily Problem Warrior |
+| 🟢 **GeeksforGeeks** | [`s_ram_1818`](https://www.geeksforgeeks.org/user/s_ram_1818/) | 💡 Active Solver | Knowledge Seeker |
+| 🟠 **CodeChef** | [`s_ram_108`](https://www.codechef.com/users/s_ram_108) | ⭐ 2★ (1553) | Global Rank 52 |
+
+</div>
+
+---
+
+## 🌐 **Connect & Collaborate**
+
+<div align="center">
+
+```ascii
+     📧 Email me          💼 LinkedIn         🐙 GitHub
+ramsarwade1818@gmail.com  │  linkedin.com/in/ram1818  │  github.com/s-ram-1818
+```
+
+[![Email](https://img.shields.io/badge/📧_Email-ff6b6b?style=for-the-badge&logoColor=white)](mailto:ramsarwade1818@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-4ecdc4?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/ram1818/)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-45b7d1?style=for-the-badge&logoColor=white)](https://github.com/s-ram-1818)
+
+</div>
+
+---
+
+## 🎭 **Easter Eggs & Fun Facts**
+
+<details>
+<summary>🎲 Click to reveal my secrets...</summary>
+
+```python
+personal_quirks = {
+    "coding_hours": "Usually 2 AM - 6 AM (Night owl 🦉)",
+    "debugging_style": "Print statements everywhere + frustrated sighs",
+    "favorite_error": "Cannot read property 'undefined' of undefined",
+    "code_review_style": "\"This looks good\" *internally screaming*",
+    "git_commit_messages": ["fix", "works", "idk why this works but it does"],
+    "productivity_hack": "Lo-fi hip hop beats + mechanical keyboard",
+    "dream_project": "Building the next unicorn startup 🦄",
+    "coding_fuel": "☕ Coffee + 🍕 Pizza + 💤 Minimal sleep"
+}
+
+# Secret achievement unlocked: You found this section! 🏆
+print("Thanks for exploring my profile! Let's build something amazing together! 🚀")
+```
+
+</details>
+
+---
+
+## 🎪 **Current Circus Acts**
+
+```mermaid
+graph TD
+    A[☕ Wake up] --> B[💻 Code]
+    B --> C[🍕 Eat]
+    C --> D[💻 More Code]
+    D --> E[🐛 Debug]
+    E --> F[😴 Sleep?]
+    F --> G[💡 Sudden idea]
+    G --> B
+    
+    style A fill:#ff6b6b
+    style B fill:#4ecdc4
+    style C fill:#45b7d1
+    style D fill:#96ceb4
+    style E fill:#feca57
+    style F fill:#ff9ff3
+    style G fill:#54a0ff
+```
+
+---
+
+<div align="center">
+
+**🎯 Mission Statement**
+> "Converting caffeine into clean code, one algorithm at a time!"
+
+```
+⭐ Star my repos if you find them useful!
+🔔 Watch for updates on cool projects!
+🤝 Always open to collaboration and crazy ideas!
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=s-ram-1818&style=for-the-badge&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/s-ram-1818?style=for-the-badge&color=orange&logo=github)
+
+---
+
+```
+  ______ _   _ _____   ____  ______   ______ _____ _      ______ 
+ |  ____| \ | |  __ \ |  _ \|  ____| |  ____|_   _| |    |  ____|
+ | |__  |  \| | |  | | | |_) | |__    | |__    | | | |    | |__   
+ |  __| | . ` | |  | | |  _ <|  __|   |  __|   | | | |    |  __|  
+ | |____| |\  | |__| | | |_) | |      | |     _| |_| |____| |____ 
+ |______|_| \_|_____/  |____/|_|      |_|    |_____|______|______|
+```
+
 </div>
